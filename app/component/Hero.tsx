@@ -58,7 +58,7 @@ function Hero() {
               Generative AI 🤖, Web 3.0 🌐, Metaverse 🪐, and Full-Stack
               Development 💻. Currently refining my skills at Governor House
               Karachi 🏛️, I am dedicated to creating innovative solutions that
-              drive technological impact 🌟. Let's build the future together! 🚀
+              drive technological impact 🌟. Let’s build the future together! 🚀
             </p>
             <div className="flex flex-wrap justify-center gap-6">
               <Link href="/component/Contact" aria-label="Contact Me">
